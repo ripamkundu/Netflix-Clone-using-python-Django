@@ -1,5 +1,5 @@
 # Django Netflix Clone
-This is a clone of the popular video streaming site Netflix. Built using Django and uses the requests library to handle data from TMDB API.
+This is a clone of the popular video streaming site Netflix. Built using Django and uses the requests library to handle data from API.
 
 ![](https://github.com/steve-njuguna-k/Django-Netflix-Clone/blob/master/Screenshot.PNG)
 
