@@ -3,10 +3,6 @@ This is a clone of the popular video streaming site Netflix. Built using Django 
 
 ![](https://github.com/steve-njuguna-k/Django-Netflix-Clone/blob/master/Screenshot.PNG)
 
-## Contributors
-- [Faith Njoki](https://github.com/faithnjoki)
-- [Steve Njuguna](https://github.com/steve-njuguna-k)
-
 ## Requirements
 The user can perform the following functions:
 
@@ -59,9 +55,6 @@ py manage.py migrate
 py manage.py runserver
 ```
 
-## Known Bugs
-- There are no known bugs currently but pull requests are allowed incase you spot a bug
+© 2024 Ripam Kundu
 
-© 2022 Steve Njuguna & Faith Njoki
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
